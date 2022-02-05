@@ -21,7 +21,7 @@ os.system("clear")
 os.system("DDos Attack")
 print("Author:BlackyGuy")
 print("From: your heart")
-ip = raw_input("IP Target : ")
+IP = raw_input("IP : ")
 port = input("Port       : ")
 
 os.system("clear")
