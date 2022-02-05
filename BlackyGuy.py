@@ -19,10 +19,8 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("DDos Attack")
-print("====================================")
 print("Author:BlackyGuy")
 print("From: your heart")
-print("====================================")
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
